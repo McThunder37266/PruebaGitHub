@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b2922cd5a8bd767498d6ffdafafbbe25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Oro: {fileID: 4301830576416682687, guid: bfceaed27ad776b42b53073e81f03494, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
